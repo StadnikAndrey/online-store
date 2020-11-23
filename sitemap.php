@@ -1,0 +1,319 @@
+﻿<?php  
+echo '<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://shoptest.kl.com.ua/</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/delivery</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/products/1</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/products/2</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/about</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/news</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/contacts</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/143</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/140</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/3</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/31</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/news/one/260</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/news/one/257</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/news/one/256</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/news/one/255</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/news/one/254</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/news/one/253</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/news/one/252</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/news/one/251</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/oferta</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/return/info</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/safety</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/150</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/149</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/148</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/147</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/146</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/145</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/144</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/142</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/141</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/138</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/137</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/136</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/124</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/33</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/34</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/32</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/29</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/30</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/27</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/28</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/154</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/153</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/152</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/151</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/139</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/125</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/71</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/72</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/69</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/70</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/67</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/68</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/65</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/66</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/63</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/64</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/61</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/62</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/product/59</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://shoptest.kl.com.ua/news/one/262</loc>
+  <lastmod>2020-07-30T20:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>'
+?> 
