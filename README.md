@@ -1,77 +1,77 @@
-# Интернет-магазин спортивной обуви
+# Online store for sports shoes in HTML, CSS, JavaScript, PHP, MySQL, MVC.
 
 
-**Общее описание**  
-Функциональный сайт электронной коммерции для продажи мужских и женских брендовых кроссовок, созданный с учетом удобства пользователя.  
-Разработан для портфолио.
+**General description**  
+Functional e-commerce site for the sale of men's and women's branded sneakers, created with user convenience in mind.
+Designed for portfolio.
 
-Технологии используемые при создании проекта: HTML, CSS, JavaScript, PHP, MySQL.  
-Плагины: Slick  Slider.  
-Архитектурный паттерн - MVC.  
-CMS - самописная.
+Technologies used to create the project: HTML, CSS, JavaScript, PHP, MySQL.
+Plugins: Slick Slider.
+The architectural pattern is MVC.
+CMS - self-written.
 
-**Удобство использования**  
-Основное меню – горизонтальное. 
-Расположено в шапке сайта и доступно с любой страницы. 
-Структура меню интуитивно понятна что делает процесс навигации простым и доступным. 
-Адреса страниц представлены в виде ЧПУ для возможности посетителя быстро и безошибочно определить свое местонахождение на сайте.
-В футере расположены дополнительные пункты меню. 
-Активные пункты меню подсвечиваются для удобства пользователя.
-Перейти на нужную страницу можно воспользовавшись внутренним поиском по сайту.
-Процессы регистрации, входа, оформления покупки просты в реализации для пользователя.
-Сайт доступен во всех популярных браузерах на устройствах с разным размером экранов.
+**Ease of use**  
+The main menu is horizontal.
+Located in the header of the site and accessible from any page.
+The menu structure is intuitive which makes the navigation process simple and accessible.
+Page addresses are presented in the form of CNC to enable the visitor to quickly and accurately determine their location on the site.
+Additional menu items are located in the footer.
+Active menu items are highlighted for user convenience.
+You can go to the desired page using the internal search on the site.
+The processes of registration, login, checkout are easy to implement for the user.
+The site is available in all popular browsers on devices with different screen sizes.
 
-**Функциональность**  
-*Каталог товаров*  
-Товары разделены на две категории – мужская и женская обувь. На странице категории есть фильтр товаров. 
-Страница одного товара предоставляет полную информацию о товаре, возможность добавить товар в корзину.
+**Functionality**  
+*Catalog*  
+Products are divided into two categories - men's and women's shoes. There is a product filter on the category page.
+The page of one product provides complete information about the product, the ability to add the product to the cart.
 
-*Корзина*  
-Информация о добавленных товарах представлена по каждому товару отдельно.
-Реализована возможность изменить количество товара, удалить из корзины, перейти к оформлению заказа.
+*Basket*  
+Information about added products is presented for each product separately.
+Implemented the ability to change the quantity of goods, remove from the cart, proceed to checkout.
 
-*Оформление заказа*  
-Доступно для авторизованных пользователей.
-На странице: форма для контактных данных пользователя, информация о товарах, итоговая стоимость. 
-После успешного оформления появляется сообщение с информацией о заказе, отправляется письмо клиенту и менеджеру магазина.
+*Checkout*  
+Available to authorized users.
+On the page: a form for the user's contact information, product information, total cost.
+After successful registration, a message appears with information about the order, a letter is sent to the client and the store manager.
 
-*Авторизация*  
-Доступна после регистрации.
-Разделение ролей пользователей: пользователь, администратор, главный администратор.
-Восстановление пароля учетной записи пользователя происходит по email.
+*Authorization*  
+Available after registration.
+Separation of user roles: user, administrator, main administrator.
+User account password recovery occurs by email.
 
-*Личный кабинет пользователя*  
-Возможности: просмотр заказов, просмотр и редактирование личных данных.
+*User account*  
+Features: viewing orders, viewing and editing personal data.
 
-*Страница новостей*  
-Помимо функциональности электронной коммерции, сайт также интегрирован с функциональностью блога.
+*News page*  
+In addition to the e-commerce functionality, the site is also integrated with blog functionality.
 
-*Главная страница*  
-Демонстрация актуальных моделей, последних новостей.
+*Main page*  
+Demonstration of current models, latest news.
 
-*Поиск*  
-Найти необходимую категорию товаров или перейти на нужную страницу можно воспользовавшись внутренним поиском на сайте.
+*Search*  
+You can find the required category of goods or go to the desired page using the internal search on the site.
 
-*Другая информация*  
-Доступны страницы: «О нас», «Контакты», «Оферта», «Доставка», «Возврат», «Безопасность».
-В подвале расположены ссылки на страницы магазина в соцсетях.
+*Other information*  
+Pages available: "About us", "Contacts", "Offer", "Delivery", "Return", "Security".
+In the footer there are links to the pages of the store in social networks.
 
-*Админпанель*  
-Управление содержимым сайта в стиле CRUD.
-Позволяет просматривать, добавлять, редактировать и удалять содержимое сайта.
+*Admin panel*  
+Site content management (CRUD).
+Allows you to view, add, edit and delete site content.
 
 **SEO**  
-*Адреса страниц*  
-Отображаются в виде семантических URL (ЧПУ).
+*Page URLs*  
+Displayed as semantic URLs.
 
 *title и descripiton*  
-На каждой странице уникальны, отражают тематику сайта.
+Each page is unique, customizable.
 
 *robots.txt и sitemap.xml*  
-Есть.
+Are available.
 
-*Альтернативный текст (alt) для изображений*  
-Для каждого изображения уникальный.
+*Alternative text (alt) for images*  
+Each image is unique.
 
 *favicon*  
-Есть.
+Are available.
